@@ -1,4 +1,4 @@
-# Course Completion Certificates
+# Certificates
 
 This repository contains my collection of course completion certificates from various online platforms and institutions.
 
